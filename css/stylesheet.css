@@ -20,7 +20,9 @@ li
 {
    float: left;
 }
-
+.menu1{
+	
+}
 ul
 {
     list-style-type: none;
@@ -29,7 +31,6 @@ ul
     overflow: hidden;
     background-color: #333;
 }
-
 
 li a:hover {
     background-color: #111;
