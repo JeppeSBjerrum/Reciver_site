@@ -10,7 +10,17 @@
 <h1>Velkomme  til vores reciver side</h1> <br>
 <h3>Her kan du finde de bedste recivers i verden</h3> <br>
 <h5>Det er ikke løgn</h5>
+    
+<button onclick="ButtonClick()">Vil du have en cookie?</button>
+    
+
 
 <?php include 'footer.php'; ?>
 </body>
+    
+<script>
+    
+ function ButtonCookie()
+    
+</script>
 </html>
