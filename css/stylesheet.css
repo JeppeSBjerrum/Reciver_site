@@ -1,0 +1,25 @@
+.header
+{
+    display: inline;
+    font-family: sans-serif;
+}
+
+li a 
+{
+    text-decoration: none;
+}
+
+
+li 
+{
+    
+}
+
+footer 
+{
+    background-color:black;
+    color:white;
+    display: inline;
+    padding-top:10px;
+    padding-bottom:10px; 
+}
