@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Untitled Document</title>
+<title>De bedste reivers i hele verden</title>
 <link rel="stylesheet" href="css/stylesheet.css">
 </head>
 <body>
